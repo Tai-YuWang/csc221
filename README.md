@@ -1,2 +1,3 @@
 # CSC221
-My CSC221 repo
+
+This is my CSC221 repo.
